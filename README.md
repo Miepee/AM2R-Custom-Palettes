@@ -4,3 +4,4 @@ A GitHub repository hosting custom palettes concerning a particular fangame.
 ## Current Contributors
 - Paragon
 - Yolo_Swaginson
+- ShirtyScarab
