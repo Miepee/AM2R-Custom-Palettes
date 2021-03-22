@@ -8,3 +8,4 @@ Alternatively, you can also post in the [AM2R Discord Server](https://discord.gg
 - Paragon
 - Yolo_Swaginson
 - ShirtyScarab
+- Wandering Spider
