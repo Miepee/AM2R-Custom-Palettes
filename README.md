@@ -33,16 +33,3 @@ If you want to see how your current palette looks or want to see what a certain 
 
 ## Troubleshooting
 Sometimes, the edit you make doesn't work. This happens. Some tools just don't collaborate sometimes for whatever reason. If you ever encounter any problems with software or palettes not working, feel free to join the Discord linked above and ask questions there.
-
-## Current Contributors
-- Paragon
-- Yolo_Swaginson
-- ShirtyScarab
-- Wandering Spider
-- Jesright73
-- Feonyx
-- Varia31
-- Blooshy
-- Sax Marine
-- Palladium346 
-- TeddyRiggs
